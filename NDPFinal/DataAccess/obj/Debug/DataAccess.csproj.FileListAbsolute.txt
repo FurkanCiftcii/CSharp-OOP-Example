@@ -1,0 +1,16 @@
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\bin\Debug\Entities.dll
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\bin\Debug\Entities.pdb
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\bin\Debug\Business.dll
+C:\Users\CIFTCI\Desktop\NDPFinal\DataAccess\bin\Debug\Business.pdb
